@@ -10,4 +10,5 @@ I'm a student at [Union College](https://www.union.edu/) with a knack for coding
 - **Certified in:** HTML5 Application Development
 
 Excited about the ever-evolving tech landscape, I'm always ready to learn and contribute to exciting projects!
+
 Let's code something amazing! 🚀
