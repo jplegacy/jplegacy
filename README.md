@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm a student at [Union College](https://www.union.edu/) with a knack for coding and a love for all things tech. My toolkit includes languages like **Python**, **C++**, **Go(lang)**, and **Java**, and I'm not shy about diving into the complexities of **Artificial Intelligence**, **Natural Language Processing**, and **Mathematics**.
+I'm a student at [Union College](https://www.union.edu/) with a love for coding and all things tech. With much interest in topics in Math, Economics, Computer Science, and Music, my love for hard problems is vast and wide.
 
 ### Skills:
 
