@@ -11,4 +11,4 @@ I'm a student at [Union College](https://www.union.edu/) with a love for coding 
 
 Excited about the ever-evolving tech landscape, I'm always ready to learn and contribute to exciting projects!
 
-<img src="https://myreadme.vercel.app/api/embed/jplegacy?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/jplegacy?panels=toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
